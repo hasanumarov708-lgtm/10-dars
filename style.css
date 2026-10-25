@@ -2,6 +2,9 @@
 body{
     font-family: "Montserrat", sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 * {
     padding: 0;
     margin: 0;
@@ -100,7 +103,7 @@ nav {
     border: none;
 }
 
-.first {
+#Services {
     background: #f2f5ff;
     height: 150px;
     padding-top: 46px;
